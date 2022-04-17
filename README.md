@@ -1,8 +1,9 @@
-# Friendship-Networking-App
+# True Friend: Friendship-Networking-App
 
 https://52147.github.io/Friendship-Networking-App/
 
-- A website that introduce an App for friendship and networking.
+- True Friend is an App for friendship and networking and this is the intro website for True Frined.
+
 
 
 
