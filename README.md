@@ -2,7 +2,7 @@
 
 https://52147.github.io/True-Friend/
 
-- True Friend is an App for friendship and networking and this is the intro website for True Frined.
+- True Friend is an App for friendship and networking and this is the download website for True Frined.
 
 
 
