@@ -7,4 +7,4 @@ https://52147.github.io/True-Friend/
 
 
 
-- Develop a Grid Layout Systen, container,z-index, stacking order and combining selector by html, css, BootStrap to build a responsive, mobile-first front-end website.
+- Develop Grid Layout System, container, z-index, stacking order and combining selector based on html, css, BootStrap to build a responsive, mobile-first front-end website.
