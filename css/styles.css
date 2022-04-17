@@ -1,0 +1,383 @@
+  /* html selector */
+
+  body {
+      font-family: 'Montserrat',
+          sans-serif;
+      text-align: center;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+      font-family: 'Montserrat',
+          sans-serif;
+  }
+
+  p {
+      color: rgb(119, 99, 160);
+      font-size: 1.5rem;
+
+  }
+
+
+  /* Heading */
+  .big-heading {
+      font-family: 'Montserrat',
+          sans-serif;
+      font-weight: 900;
+
+      font-size: 3rem;
+      line-height: 1.5;
+      margin-bottom: 5%;
+      /* color: rgb(91, 51, 172); */
+
+  }
+
+  .section-heading {
+      font-weight: 900;
+      font-size: 3rem;
+      line-height: 1.5;
+      color: rgb(68, 18, 168);
+  }
+
+
+
+
+  #title {
+      background-color: #f1eaff;
+      /* color: rgb(91, 51, 172); */
+      text-align: left;
+  }
+
+
+  /* Container Section */
+
+  /* .container-fluid {
+
+      padding: 3% 15% 22%;
+
+  } */
+
+  .container-fluid {
+      padding: 7% 15%;
+  }
+
+  /* Color Section */
+
+  .color-section {
+      color: rgb(91, 51, 172);
+  }
+
+  .white-section {
+      color: #fff;
+  }
+
+
+  /* Navigation Bar */
+
+  .navbar {
+      padding: 0 0 4.5rem;
+
+  }
+
+  .navbar-brand {
+      font-family: 'Ubuntu',
+          sans-serif;
+      font-size: 2.8rem;
+      font-weight: bold;
+      color: #a467ff;
+
+  }
+
+  .nav-item {
+      padding: 0 18px;
+  }
+
+  .nav-link {
+      font-size: 1.8rem;
+      font-family: 'Montserrat',
+          sans-serif;
+      font-weight: 600;
+      color: #8a3cff;
+
+  }
+
+
+  .navbar-brand:hover,
+  .navbar-brand:active {
+      color: rgb(91, 51, 172);
+  }
+
+  .nav-link:hover,
+  .nav-link:active {
+      color: rgb(91, 51, 172);
+  }
+
+
+
+  /* .navbar-toggler {
+      border-color: rgb(91, 51, 172);
+
+  } */
+
+
+
+  /* .navbar {
+      color: rgb(91, 51, 172);
+  }
+
+  .navbar-toggler-icon {
+      border: rgb(91, 51, 172);
+
+  } */
+
+
+  .navbar-toggler-icon {
+      background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(91, 51, 172, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+  }
+
+  .navbar-toggler {
+      border-color: rgb(91, 51, 172);
+  }
+
+  .navbar-toggler:hover,
+  .navbar-toggler:active {
+      color: rgb(91, 51, 172);
+  }
+
+
+
+
+  /* Download Bottoms */
+
+  .download-button {
+      margin: 5% 3% 5% 0;
+  }
+
+  /* Title Section */
+
+  /* Title Image */
+
+
+  .title-image {
+      width: 60%;
+      transform: rotate(25deg);
+
+      position: absolute;
+      right: 30%;
+  }
+
+
+  #title .container-fluid {
+      padding: 3% 15% 15%;
+  }
+
+
+
+
+
+
+
+  /* Features Section */
+
+  /* id must use hashtag# */
+  #features {
+      padding: 7% 15%;
+      background-color: #fff;
+      position: relative;
+
+  }
+
+
+
+
+  .feature-heading {
+      font-weight: 900;
+      font-size: 2.8rem;
+      /* color: rgb(91, 51, 172); */
+  }
+
+
+  .feature-box {
+
+      padding: 5%;
+  }
+
+  .icon {
+      color: rgb(172, 131, 255);
+      margin-bottom: 1rem;
+  }
+
+  .icon:hover {
+      color: rgb(91, 51, 172);
+  }
+
+  /* Testimonials Section */
+
+  #testimonials {
+
+
+      background-color: #f1eaff;
+      /* color: rgb(91, 51, 172); */
+  }
+
+  .testimonial-image {
+      width: 10%;
+      border-radius: 100%;
+      margin: 20px;
+  }
+
+  .testimonial-text {
+      font-weight: 400;
+
+      font-size: 3rem;
+      line-height: 1.5;
+      color: rgb(68, 18, 168);
+
+  }
+
+
+  #press {
+      background-color: #f1eaff;
+
+      padding-bottom: 3%;
+  }
+
+  .press-logo {
+      width: 15%;
+      margin: 20px 20px 50px;
+  }
+
+  /* .carousel-item {
+      padding: 7% 15%;
+  } */
+
+
+
+  /* Pricing Section */
+
+
+  #pricing {
+      padding: 100px;
+
+  }
+
+  .pricing-column {
+      padding: 3% 2%;
+  }
+
+  .col {
+
+      font-weight: 900;
+      font-size: 1.8rem;
+      margin-bottom: 0%;
+
+  }
+
+  .btn-bd-primary {
+      font-weight: 600;
+      color: #fff;
+      background-color: rgb(177, 138, 253);
+      border-color: rgb(177, 138, 253);
+  }
+
+  .btn-bd-primary:hover,
+  .btn-bd-primary:active {
+      color: #fff;
+      background-color: rgb(207, 183, 255);
+      border-color: rgb(207, 183, 255);
+  }
+
+  .card {
+      border-color: rgb(177, 138, 253);
+  }
+
+  .card-header {
+      background-color: rgb(177, 138, 253);
+  }
+
+  .ba {
+      font-weight: 900;
+      font-size: 3rem;
+      line-height: 1.5;
+
+      color: rgb(255, 123, 91);
+  }
+
+  .ea {
+      font-weight: 900;
+  }
+
+  .row {
+      margin-top: 3%;
+  }
+
+
+  /* CTA Section */
+
+  #cta {
+      background-color: #f1eaff;
+      /* color: rgb(91, 51, 172); */
+      /* padding: 7% 15%; */
+      text-align: center;
+  }
+
+  .cta-heading {
+      font-family: 'Montserrat',
+          sans-serif;
+      font-weight: 600;
+      font-size: 3.5rem;
+      line-height: 1.5;
+
+      /* color: rgb(91, 51, 172); */
+  }
+
+  /* Footer */
+
+  /* id -> class -> html tag */
+  #footer {
+      /* padding: 7% 15%; */
+      text-align: center;
+  }
+
+
+  .social-icon {
+      margin: 20px 10px;
+      width: 2%;
+      color: rgb(91, 51, 172);
+      transition: 0.5s ease;
+  }
+
+
+  .foo {
+      margin-top: 3%;
+  }
+
+  .social-icon:hover,
+  .social-icon:active {
+      color: rgb(207, 183, 255);
+      -webkit-transform: scale(1.2);
+      -ms-transform: scale(1.2);
+      transform: scale(1.2);
+      transition: 0.5s ease;
+
+
+
+  }
+
+
+
+  @media (max-width : 1020px) {
+
+      #title {
+          text-align: center;
+      }
+
+      .title-image {
+          position: static;
+          transform: rotate(0);
+      }
+  }
